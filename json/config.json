@@ -278,7 +278,7 @@
       "api": "csp_WebDAV",
       "searchable": 0,
       "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/webdav.json"
+      "ext": "https://raw.githubusercontent.com/nick200000/CatVodSpider/main/json/webdav.json"
     },
     {
       "key": "JustLive",
