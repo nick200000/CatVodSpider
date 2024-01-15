@@ -269,7 +269,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/alist.json"
+      "ext": "https://raw.githubusercontent.com/nick200000/CatVodSpider/main/json/alist.json"
     },
     {
       "key": "WebDAV",
