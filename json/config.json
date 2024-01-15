@@ -3,15 +3,6 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "18+",
-      "name": "18+",
-      "type": 3,
-      "api": "csp_18+",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://raw.githubusercontent.com/nick200000/CatVodSpider/main/json/adult.json"
-    },
-    {
       "key": "商店",
       "name": "商店",
       "type": 3,
